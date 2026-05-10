@@ -35,8 +35,8 @@
 
 <div align="center">
   <a href="https://github.com/Gusbzz">
-    <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gusbzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-    <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gusbzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gusbzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gusbzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
 </div>
 
