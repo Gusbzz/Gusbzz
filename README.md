@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/gustavobozzo"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gustavobozzo/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/gus_bzz/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:gusbzz56@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
