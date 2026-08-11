@@ -41,6 +41,24 @@ Atualmente estudando Typescript e Python + Django
 
 # Atividades
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gusbzz/Gusbzz/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="Grafo 3D de Contribuições">
-</p>
+<table>
+<tr>
+<td width="600">
+
+<img src="https://raw.githubusercontent.com/Gusbzz/Gusbzz/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="Grafo 3D de Contribuições">
+
+</td>
+<td align="center">
+
+<img src="./imagens/LogoZelda.gif" alt="LogoZelda" width="100" height="100">
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="./imagens/Link2.gif" alt="Link2" width="150" height="200">
+
+</td>
+</tr>
+</table>
