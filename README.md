@@ -12,7 +12,7 @@ Atualmente estudando Typescript e Python + Django
 
 <a href="https://www.linkedin.com/in/gustavobozzo/"><img alt="LinkedIn" title="LinkedIn" src="./imagens/linkedin.png" height="35px"/></a>
 <a href="https://www.instagram.com/gus_bzz/"><img alt="Instagram" title="Instagram" src="./imagens/instagram.png" height="35px"/></a>
-<a href="mailto:gusbzz56@gmail.com"><img alt="Email" title="Email" src="./imagens/whatsapp.png" height="35px"/></a>
+<a href="mailto:gusbzz56@gmail.com"><img alt="Email" title="Email" src="./imagens/gmail.png" height="35px"/></a>
 
 </td>
 <td align="center" valign="middle" width="40%">
