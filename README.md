@@ -1,6 +1,6 @@
-<table>
+<table width="100%" border="0">
 <tr>
-<td valign="middle" width="100%">
+<td valign="middle" width="60%">
 
 # Olá! Eu sou Gustavo Bozzo
 
