@@ -1,25 +1,18 @@
-<table>
-<tr>
-<td valign="middle" width="50%">
+<img align="right" src="./imagens/Link.gif" alt="Link" width="300">
 
-# Olá! Eu sou Gustavo Bozzo
+### Olá! Eu sou Gustavo Bozzo
 
 Graduando em Análise e Desenvolvimento de Sistemas  
 Desenvolvedor Full-Stack  
 Atualmente estudando Typescript e Python + Django
 
-## Contato
+### Contato
 
 <a href="https://www.linkedin.com/in/gustavobozzo/"><img alt="LinkedIn" title="LinkedIn" src="./imagens/linkedin.png" height="35px"/></a>
 <a href="https://www.instagram.com/gus_bzz/"><img alt="Instagram" title="Instagram" src="./imagens/instagram.png" height="35px"/></a>
 <a href="mailto:gusbzz56@gmail.com"><img alt="Email" title="Email" src="./imagens/gmail.png" height="35px"/></a>
 
-</td>
-<td align="center" valign="middle" width="40%">
-  <img src="./imagens/Link.gif" alt="Link" width="220">
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <h1> Tecnologias
 
@@ -61,13 +54,3 @@ Atualmente estudando Typescript e Python + Django
 # ⚙️ Atividade
 
 <div align="left">
-
-# Redes e Contato
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/gustavobozzo/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/gus_bzz/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:gusbzz56@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
