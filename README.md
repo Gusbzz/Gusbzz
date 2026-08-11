@@ -1,6 +1,4 @@
-<table width="100%" border="0">
-<tr>
-<td valign="middle" width="60%">
+<img align="right" src="./imagens/Link.gif" alt="Link" width="220">
 
 # Olá! Eu sou Gustavo Bozzo
 
@@ -14,12 +12,7 @@ Atualmente estudando Typescript e Python + Django
 <a href="https://www.instagram.com/gus_bzz/"><img alt="Instagram" title="Instagram" src="./imagens/instagram.png" height="35px"/></a>
 <a href="mailto:gusbzz56@gmail.com"><img alt="Email" title="Email" src="./imagens/whatsapp.png" height="35px"/></a>
 
-</td>
-<td align="center" valign="middle" width="40%">
-  <img src="./imagens/Link.gif" alt="Link" width="220">
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <h1> Tecnologias
 
