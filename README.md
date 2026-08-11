@@ -1,12 +1,12 @@
-<img align="right" src="./imagens/Link.gif" alt="Link" width="220">
+<img align="right" src="./imagens/Link.gif" alt="Link" width="300">
 
-# Olá! Eu sou Gustavo Bozzo
+### Olá! Eu sou Gustavo Bozzo
 
 Graduando em Análise e Desenvolvimento de Sistemas  
 Desenvolvedor Full-Stack  
 Atualmente estudando Typescript e Python + Django
 
-## Contato
+### Contato
 
 <a href="https://www.linkedin.com/in/gustavobozzo/"><img alt="LinkedIn" title="LinkedIn" src="./imagens/linkedin.png" height="35px"/></a>
 <a href="https://www.instagram.com/gus_bzz/"><img alt="Instagram" title="Instagram" src="./imagens/instagram.png" height="35px"/></a>
