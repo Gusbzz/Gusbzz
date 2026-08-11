@@ -39,8 +39,8 @@ Atualmente estudando Typescript e Python + Django
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-# Estatísticas
+# Atividades
 
-### 📊 Grafo de Contribuições 3D
-
-![Grafo 3D de Contribuições](https://raw.githubusercontent.com/Gusbzz/Gusbzz/main/profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gusbzz/Gusbzz/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="Grafo 3D de Contribuições">
+</p>
