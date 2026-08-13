@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4316b8&height=120&section=header" />
+
 <img align="right" src="./imagens/Link.gif" alt="Link" width="300">
 
 ### Olá! Eu sou Gustavo Bozzo
@@ -62,3 +64,5 @@ Atualmente estudando Typescript e Python + Django
 </td>
 </tr>
 </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4316b8&height=120&section=footer" />
