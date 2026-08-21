@@ -42,6 +42,7 @@ Formado no Instituto PROA em Desenvolvimento Web Java
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Mastra AI](https://img.shields.io/badge/Mastra_AI-6E56CF?style=for-the-badge&logoColor=white)
 
 # Atividades
 
