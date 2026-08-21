@@ -6,7 +6,7 @@
 
 Graduando em Análise e Desenvolvimento de Sistemas  
 Desenvolvedor Full-Stack  
-Atualmente estudando Typescript e Python + Django
+Formado no Instituto PROA em Desenvolvimento Web Java
 
 ### Contato
 
